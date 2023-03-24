@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "TraMineR"]
+	path = TraMineR
+	url = https://github.com/cran/TraMineR
+	shallow = true
+	registered = true
+[submodule "TraMineRextras"]
+	path = TraMineRextras
+	url = https://github.com/cran/TraMineRextras
+	shallow = true
+	registered = true
