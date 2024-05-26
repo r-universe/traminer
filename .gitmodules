@@ -8,3 +8,6 @@
 [submodule "TraMineRextras"]
 	path = TraMineRextras
 	url = https://github.com/cran/TraMineRextras
+[submodule "seqSHP"]
+	path = seqSHP
+	url = https://github.com/cran/seqSHP
