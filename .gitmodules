@@ -7,7 +7,7 @@
 	url = https://github.com/cran/MCseqReplic
 [submodule "TraMineR"]
 	path = TraMineR
-	url = https://github.com/cran/TraMineR
+	url = https://github.com/traminer/traminer
 [submodule "TraMineRextras"]
 	path = TraMineRextras
 	url = https://github.com/cran/TraMineRextras
